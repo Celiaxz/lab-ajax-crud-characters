@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "celiaxxa",
+      "occupation": "pilot",
+      "cartoon": false,
+      "weapon": "lovely",
+      "id": 4
+    },
+    {
+      "name": "celiaxxa",
+      "occupation": "pilot",
+      "cartoon": false,
+      "weapon": "lovely",
+      "id": 5
+    },
+    {
+      "name": "celiaxxa",
+      "occupation": "pilot",
+      "cartoon": false,
+      "weapon": "lovely",
+      "id": 6
+    },
+    {
+      "name": "celiaxxa",
+      "occupation": "pilot",
+      "cartoon": false,
+      "weapon": "lovely",
+      "id": 7
+    },
+    {
+      "name": "galaxy",
+      "occupation": "kyter",
+      "cartoon": true,
+      "weapon": "redd",
+      "id": 8
+    },
+    {
+      "name": "celiarfxxa",
+      "occupation": "pilot",
+      "cartoon": true,
+      "weapon": "lovely",
+      "id": 9
+    },
+    {
+      "name": "65ht",
+      "occupation": "5thb",
+      "weapon": "b5yttb",
+      "cartoon": true,
+      "id": 10
+    }
+  ]
+}
